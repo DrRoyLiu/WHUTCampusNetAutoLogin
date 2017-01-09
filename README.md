@@ -1,5 +1,11 @@
 # WHUTCampusNetAutoLogin
 
+武汉理工大学校园网自动登录脚本（只在教学区测试过，寝室不知道能不能用）
+
+在校园网中，如果长时间不使用网络，网络连接会自动断开
+
+用这个脚本可以让电脑保持联网状态
+
 This python program can login and logout WHUT campus network (or all the network which is provided by srun.com)
 
 WhutNetUtil.py can login or logout the WHUT campus network.
