@@ -1,10 +1,14 @@
+2017年9月起，WHUT大学启用新网络登陆系统，不再使用明文post密码，该方法失效。
+
 # WHUTCampusNetAutoLogin
 
-武汉理工大学校园网自动登录脚本（只在教学区测试过，寝室不知道能不能用）
+WHUT校园网自动登录脚本（只在教学区测试过，寝室不知道能不能用）
 
 在校园网中，如果长时间不使用网络，网络连接会自动断开
 
 用这个脚本可以让电脑保持联网状态
+
+Since Sept. 2017, WHUT used a new network login system, cleartext passwords was no longer supported. And this function is disabled.
 
 This python program can login and logout WHUT campus network (or all the network which is provided by srun.com)
 
